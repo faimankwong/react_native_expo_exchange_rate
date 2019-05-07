@@ -1,4 +1,4 @@
-# Final Project: Self-Designed App
+# React native exchange rate app
 
 Implement a project with JavaScript and React Native from scratch.
 Develop a workflow for developing mobile apps.
