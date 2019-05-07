@@ -76,6 +76,11 @@ export const ChangeCurrencyMonthly_api = async (date,name) => {
 }
 
 ```
+Screen Capture
+-----------
+
+
+
 Contributors
 -----------
 Fai Man Kwong
