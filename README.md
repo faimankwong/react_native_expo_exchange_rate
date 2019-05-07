@@ -90,7 +90,7 @@ Last 30 days records:
 
 <img src="https://github.com/faimankwong/react_native_expo_exchange_rate/blob/master/img/4.jpg" width="200" height="420">
 
-Graph:
+Currency Trending Chart:
 
 <img src="https://github.com/faimankwong/react_native_expo_exchange_rate/blob/master/img/3.jpg" width="200" height="420">
 
