@@ -78,8 +78,10 @@ export const ChangeCurrencyMonthly_api = async (date,name) => {
 ```
 Screen Capture
 -----------
-<img src="https://github.com/faimankwong/react_native_expo_exchange_rate/blob/master/img/1.jpg" width="200" height="400">
-
+<img src="https://github.com/faimankwong/react_native_expo_exchange_rate/blob/master/img/1.jpg" width="200" height="420">
+<img src="https://github.com/faimankwong/react_native_expo_exchange_rate/blob/master/img/2.jpg" width="200" height="420">
+<img src="https://github.com/faimankwong/react_native_expo_exchange_rate/blob/master/img/3.jpg" width="200" height="420">
+<img src="https://github.com/faimankwong/react_native_expo_exchange_rate/blob/master/img/4.jpg" width="200" height="420">
 Contributors
 -----------
 Fai Man Kwong
